@@ -60,6 +60,9 @@ body{
 
 @media only screen and (max-width: 600px) {
     /* Style the navigation buttons for smaller screens */
+    body{
+    background-image: url(Images/background-Image.jpeg);
+    }
     .topnav button {
         padding: 3px;
         margin: 3px;
